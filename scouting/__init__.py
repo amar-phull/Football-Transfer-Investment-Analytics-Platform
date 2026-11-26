@@ -1,0 +1,1 @@
+"""Football recruitment analytics."""
